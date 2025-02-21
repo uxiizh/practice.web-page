@@ -1,2 +1,2 @@
-# practice.web-page
-Just a practice web-page
+# practice.website
+Just a practice website
